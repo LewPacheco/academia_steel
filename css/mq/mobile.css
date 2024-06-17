@@ -57,7 +57,7 @@
         display: none;
     }
 
-    .banner > .textBanner > .titulo{
+    .banner > .textBanner > .titulo > img{
         display: none; 
     }
     
